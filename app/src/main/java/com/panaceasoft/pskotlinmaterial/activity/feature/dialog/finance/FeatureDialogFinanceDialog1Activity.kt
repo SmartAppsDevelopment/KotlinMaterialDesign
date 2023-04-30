@@ -103,7 +103,7 @@ class FeatureDialogFinanceDialog1Activity : AppCompatActivity() {
         subTitleTextView = dialog.findViewById(R.id.subTitleTextView)
         subTitleTextView.text = "Month Closing !"
 
-        msgTextView =   dialog.findViewById(R.id.messageTextView)
+        msgTextView =    dialog.findViewById(R.id.messageTextView)
         msgTextView.text = "You got some balance to carry over to next month."
 
         image = dialog.findViewById(R.id.dialogImageView)
